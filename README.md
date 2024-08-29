@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amro</h1>
 <h3 align="center">A passionate Data Scientist from Palestine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amroeid77&label=Profile%20views&color=0e75b6&style=flat" alt="amroeid77" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amroeid77" alt="amroeid77" /></a> </p>
 
