@@ -4,11 +4,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CEF744&center=true&width=200&height=100&lines=Data+Scientist+%3A+);CAP+Student+%40+NNU;Always+Exploring+New+Tech;Learning+Fast;Breaking+Nothing+(Hopefully)&font=Pacifico&center=true&width=650&height=120&color=CEF744FF&vCenter=true&size=45%22" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">I’m a junior Artificial Intelligence student at An-Najah National University, driven by curiosity and a desire to learn. With foundational knowledge of machine learning, deep learning, and data analysis, I’m excited to explore how AI and technology can transform ideas into impact.
-  </p>
-<p align="center">
+<h3 align="center">I’m a junior Artificial Intelligence student at An-Najah National University, driven by curiosity and a desire to learn. With foundational knowledge of machine learning, deep learning, and data analysis, I’m excited to explore how AI and technology can transform ideas into impact.
+  <br><br>
 I believe in learning by doing and value collaboration that sparks innovation and new ideas.
-</p>
+</h3>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
